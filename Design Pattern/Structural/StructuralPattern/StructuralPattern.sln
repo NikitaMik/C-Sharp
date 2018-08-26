@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birdge", "Birdge\Birdge.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{66BC7630-70AF-4295-B936-F29F0F7E6577}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{7707D362-8C6E-4517-A947-9A42EB76BF12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{66BC7630-70AF-4295-B936-F29F0F7E6577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66BC7630-70AF-4295-B936-F29F0F7E6577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66BC7630-70AF-4295-B936-F29F0F7E6577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7707D362-8C6E-4517-A947-9A42EB76BF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7707D362-8C6E-4517-A947-9A42EB76BF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7707D362-8C6E-4517-A947-9A42EB76BF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7707D362-8C6E-4517-A947-9A42EB76BF12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
